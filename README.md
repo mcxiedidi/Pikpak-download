@@ -27,3 +27,7 @@
    - 首次运行会要求登录验证
    - 在命令行输入您的`https://mikanime.tv/`的rss订阅链接
    - 系统自动识别对应的bt进行下载
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mcxiedidi/Pikpak-download&type=Date)](https://www.star-history.com/#mcxiedidi/Pikpak-download&Date)
